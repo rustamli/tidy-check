@@ -16,6 +16,10 @@
     "mscode",
     "code"
   ],
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/rustamli/tidy-check.git"
+  },
   "author": "Turan Rustamli <turan@rustam.li> (http://rustam.li)",
   "license": "MIT"
 }
