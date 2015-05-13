@@ -1,0 +1,21 @@
+{
+  "name": "tidy-check",
+  "version": "1.0.0",
+  "description": "Tidy wrapper to output errors for Code problem-matcher",
+  "main": "index.js",
+  "bin": {
+      "tidy-check": "./bin/main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tidy",
+    "html",
+    "linter",
+    "mscode",
+    "code"
+  ],
+  "author": "Turan Rustamli <turan@rustam.li> (http://rustam.li)",
+  "license": "MIT"
+}
